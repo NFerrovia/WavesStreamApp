@@ -1,4 +1,4 @@
-Video demostrativo: https://www.youtube.com/watch?v=ZqlE0CndZnA&feature=youtu.be
+Video demostrativo: https://www.youtube.com/watch?v=ZqlE0CndZnA
 
 Documentación:
 
