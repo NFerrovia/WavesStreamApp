@@ -31,3 +31,7 @@ https://lodash.com/docs/4.17.15
 CSS
 
 https://developer.mozilla.org/es/docs/Web/CSS
+
+JSONDB
+
+https://www.npmjs.com/package/json-server
